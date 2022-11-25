@@ -1,0 +1,1 @@
+{"dependencies":[["json_pure",[">= 0"]],["vagrant-skytap",["= 0.3.6"]]],"checksum":"59e26c74bc55e1a2042bd956591f109bc71941478c410d88f5ac3c259d6989bf","vagrant_version":"2.2.18"}
